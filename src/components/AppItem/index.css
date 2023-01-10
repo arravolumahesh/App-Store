@@ -1,0 +1,25 @@
+.app-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 10px;
+}
+.app-image {
+  height: 200px;
+  width: 160px;
+}
+.app-details-container {
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+}
+.heading {
+  font-family: roboto;
+  font-size: 20px;
+  color: #7b8794;
+}
+.description {
+  font-family: roboto;
+  font-size: 16px;
+  color: #1e293b;
+}

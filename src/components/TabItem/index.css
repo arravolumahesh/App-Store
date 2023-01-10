@@ -1,0 +1,6 @@
+.tab-item-container {
+  display: flex;
+  justify-content: space-between;
+  list-style-type: none;
+  margin-top: 10px;
+}
